@@ -1,0 +1,8 @@
+1.git log
+2.git status
+3.git commit -m " "
+4.git branch
+5.git branch branch_name
+6.git init
+7.git add filename
+8.git checkout branch_name
