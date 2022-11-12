@@ -6,3 +6,4 @@
 6.git init
 7.git add filename
 8.git checkout branch_name
+9.git push --set-upstream https://github.com/praveenkumardadigi/workdemo.git ct_local
